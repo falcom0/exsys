@@ -27,7 +27,12 @@
 .packages
 .pub-cache/
 .pub/
+.flutter-plugins-dependencies
+.metadata
 /build/
+
+/android/
+/ios/
 
 # Android related
 **/android/**/gradle-wrapper.jar
